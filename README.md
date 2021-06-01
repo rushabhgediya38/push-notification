@@ -1,3 +1,3 @@
 # push-notification
 
-https://djangonotification.herokuapp.com/
+https://djangopushnotification.herokuapp.com/
