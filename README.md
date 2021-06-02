@@ -1,4 +1,4 @@
-# push-notification
+# push-notification using FCM
 
 https://djangopushnotification.herokuapp.com/
 
