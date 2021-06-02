@@ -4,6 +4,6 @@ https://djangopushnotification.herokuapp.com/
 
 # functionality
 
-Specific user to send notification
+send notification to Specific user
 
-Multiple user to send notification
+send notification to Multiple user
